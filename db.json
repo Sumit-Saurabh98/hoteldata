@@ -7,7 +7,7 @@
 			"capacity": 2,
 			"price": 100,
 			"featured": true,
-			"image": "https://via.placeholder.com/400x250?text=Standard+Room",
+			"image": "https://images.unsplash.com/photo-1679678690998-88c8711cbe5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -26,7 +26,7 @@
 			"capacity": 2,
 			"price": 150,
 			"featured": false,
-			"image": "https://via.placeholder.com/400x250?text=Deluxe+Room",
+			"image": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -46,7 +46,7 @@
 			"capacity": 4,
 			"price": 250,
 			"featured": true,
-			"image": "https://via.placeholder.com/400x250?text=Suite",
+			"image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -67,7 +67,7 @@
 			"capacity": 4,
 			"price": 200,
 			"featured": true,
-			"image": "https://via.placeholder.com/400x250?text=Family+Room",
+			"image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -87,7 +87,7 @@
 			"capacity": 2,
 			"price": 300,
 			"featured": false,
-			"image": "https://via.placeholder.com/400x250?text=Executive+Suite",
+			"image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -108,7 +108,7 @@
 			"capacity": 2,
 			"price": 400,
 			"featured": true,
-			"image": "https://via.placeholder.com/400x250?text=Honeymoon+Suite",
+			"image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2832&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -130,7 +130,7 @@
 			"capacity": 4,
 			"price": 1000,
 			"featured": true,
-			"image": "https://via.placeholder.com/400x250?text=Presidential+Suite",
+			"image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
@@ -154,7 +154,7 @@
 			"capacity": 6,
 			"price": 5000,
 			"featured": false,
-			"image": "https://via.placeholder.com/400x250?text=Penthouse",
+			"image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2948&q=80",
 			"amenities": [
 				"Free Wi-Fi",
 				"Flat-screen TV",
